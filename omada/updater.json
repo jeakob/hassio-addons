@@ -7,5 +7,5 @@
   "slug": "omada",
   "source": "dockerhub",
   "upstream_repo": "mbentley/omada-controller",
-  "upstream_version": "latest"
+  "upstream_version": "5.12-chromium"
 }
