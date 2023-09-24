@@ -1,3 +1,5 @@
+### 5.12-chromium-amd64-2023-09-24 (06-06-2023)
+- Minor bugs fixed
 ### 5.9-chromium-amd64-2023-06-05-2 (06-06-2023)
 - Minor bugs fixed
 ### 5.9-chromium-amd64-2023-06-05 (05-06-2023)
