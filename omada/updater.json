@@ -3,7 +3,7 @@
   "github_tagfilter": "-arm64",
   "last_update": "2023-06-02",
   "paused": true,
-  "repository": "alexbelgium/hassio-addons",
+  "repository": "jeakob/hassio-addons",
   "slug": "omada",
   "source": "dockerhub",
   "upstream_repo": "mbentley/omada-controller",
