@@ -1,11 +1,11 @@
 {
   "dockerhub_by_date": true,
   "github_tagfilter": "-arm64",
-  "last_update": "2023-06-02",
+  "last_update": "2023-09-24",
   "paused": true,
   "repository": "jeakob/hassio-addons",
   "slug": "omada",
   "source": "dockerhub",
   "upstream_repo": "mbentley/omada-controller",
-  "upstream_version": "5.12-chromium"
+  "upstream_version": "5.12-chromium-amd64-2023-09-24"
 }
