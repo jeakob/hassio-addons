@@ -60,7 +60,7 @@
     "SSL_KEY_NAME": "privkey.pem",
     "TZ": "Etc/UTC"
   },
-  "image": "ghcr.io/alexbelgium/omada-{arch}",
+  "image": "ghcr.io/jeakob/omada-{arch}",
   "map": [
     "config:rw",
     "ssl:ro"
@@ -89,7 +89,7 @@
     "8888/tcp": "portal http"
   },
   "slug": "omada",
-  "url": "https://github.com/alexbelgium/hassio-addons",
+  "url": "https://github.com/jeakob/hassio-addons",
   "version": "5.12-chromium",
   "webui": "http://[HOST]:[PORT:8088]"
 }
