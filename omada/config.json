@@ -60,7 +60,7 @@
     "SSL_KEY_NAME": "privkey.pem",
     "TZ": "Etc/UTC"
   },
-  "image": "ghcr.io/jeakob/5.12-chromium-amd64-2023-09-24",
+  "image": "ghcr.io/jeakob/",
   "map": [
     "config:rw",
     "ssl:ro"
